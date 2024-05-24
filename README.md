@@ -1,4 +1,4 @@
-# E-commerce Design
+# JATE
 This application was based off starter code our instructor Gary Almes gave us.
 
 ## Description
