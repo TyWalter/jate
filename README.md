@@ -5,7 +5,7 @@ This application was based off starter code our instructor Gary Almes gave us.
 The main goal of this application was not to set it up fully, but to configure it properly so it can run as a PWA. The application itself is a text-editor that runs in the browser and it will be able to function offline if internet is unavailable.
 
 ## Visuals
-* ![Here is a screenshot](xxxxxxxxxxx) Here is a screenshot of an example employee database.
+* ![Here is a screenshot](./client/src/images/Capture.JPG) Here is a screenshot of the JATE page.
 
 ## Usage
 This application is a test of my knowledge and abilities to take starter-code that was given to me form our instructor and correctly functioning as a PWA.
